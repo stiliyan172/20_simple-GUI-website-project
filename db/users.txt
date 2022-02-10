@@ -1,0 +1,2 @@
+{"username": "stiliyan111", "email": "sts@abv.bg", "password": "123", "products": [3]}
+{"username": "test", "email": "test@abv.bg", "password": "123", "products": []}
